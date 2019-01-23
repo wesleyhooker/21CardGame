@@ -8,5 +8,16 @@ namespace _21CardGame
 {
     class Player
     {
+        private bool hasSelectedCard;
+
+        public void indicateColumn()
+        {
+
+        }
+
+        public void pickCard()
+        {
+
+        }
     }
 }
